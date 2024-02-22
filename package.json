@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "type": "module",
   "bin": {
-    "gltf-inspect": "src/index.js"
+    "gltf-scale": "src/index.js"
   },
   "author": "Julie Winchester",
   "license": "MIT",
