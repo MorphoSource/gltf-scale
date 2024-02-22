@@ -1,0 +1,20 @@
+{
+  "name": "gltf-scale",
+  "version": "0.0.1",
+  "description": "Rescale GLTF or GLB 3D assets. Based on @gltf-transform/functions.",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "gltf-inspect": "src/index.js"
+  },
+  "author": "Julie Winchester",
+  "license": "MIT",
+  "dependencies": {
+    "@caporal/core": "^2.0.7",
+    "@gltf-transform/core": "~3.10.0",
+    "@gltf-transform/extensions": "~3.10.0",
+    "@gltf-transform/functions": "~3.10.0",
+    "draco3dgltf": "^1.5.7",
+    "meshoptimizer": "^0.20.0"
+  }
+}
