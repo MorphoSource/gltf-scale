@@ -1,5 +1,5 @@
 {
-  "name": "gltf-scale",
+  "name": "@morphosource/gltf-scale",
   "version": "0.0.1",
   "description": "Rescale GLTF or GLB 3D assets. Based on @gltf-transform/functions.",
   "main": "src/index.js",
